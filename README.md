@@ -5,8 +5,8 @@
 
 
 <p align="center">
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/competition/dark" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/dataset/dark" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/notebook/dark" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/discussion/dark" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/yuyougnchan/competition/dark" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/yuyougnchan/dataset/dark" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/yuyougnchan/notebook/dark" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/yuyougnchan/discussion/dark" />
 </p>
