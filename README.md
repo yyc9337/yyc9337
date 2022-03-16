@@ -1,7 +1,7 @@
 ## 유영찬 (Yu youngchan) 
 
 
-![yuyoungchan](https://road-to-kaggle-grandmaster.vercel.app/api/simple/{yuyoungchan})
+![yuyougnchan](https://road-to-kaggle-grandmaster.vercel.app/api/simple/{yuyougnchan})
 
 
 <p align="center">
