@@ -23,4 +23,21 @@
 <p>Phone Number : <b>010-7574-9337</b></p>
 <p>E-mail : <b>yyc9337@gmail.com</b></p>
 
-<h3>Adress</h3>
+
+
+<h3>Address</h3>
+<a href="https://instagram.com/0.__.chan">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/0.__.chan/"
+        style="height : auto; margin-left : 10px; margin-right : 10px; height : 30px;"/>
+</a>
+<a href="https://www.kaggle.com/yuyougnchan">
+    <img 
+        src="http://img.shields.io/badge/-Kaggle-black?style=flat&logo=Kaggle&link=https://www.kaggle.com/yuyougnchan/"
+        style="height : auto; margin-left : 10px; margin-right : 10px; height : 30px;"/>
+</a>
+<a href="https://yyk7009.tistory.com/">
+    <img 
+        src="http://img.shields.io/badge/-Tistory Blog-black?style=flat&logo=Tistory&link=https://yyk7009.tistory.com/"
+        style="height : auto; margin-left : 10px; margin-right : 10px; height : 30px;"/>
+</a>
