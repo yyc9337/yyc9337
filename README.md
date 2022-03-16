@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Dev_Youngchan](https://road-to-kaggle-grandmaster.vercel.app/api/simple/{Dev_Youngchan})
+![yuyoungchan](https://road-to-kaggle-grandmaster.vercel.app/api/simple/{yuyoungchan})
 
 
 <!--
