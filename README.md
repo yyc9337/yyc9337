@@ -1,5 +1,6 @@
 ## 유영찬 (Yu youngchan) 
-
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyyc9337&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+ 
 <h3>Introduce</h3>
 
 
@@ -42,4 +43,5 @@
         src="http://img.shields.io/badge/-Tistory Blog-black?style=flat&logo=Tistory&link=https://yyk7009.tistory.com/"
         style="height : auto; margin-left : 10px; margin-right : 10px; height : 30px;"/>
 </a>
- 
+
+
