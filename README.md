@@ -9,14 +9,26 @@
 [![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/yuyougnchan/discussion)](https://www.kaggle.com/yuyougnchan)
 
 
-
+<p>
+<h4>Technical</h2>
+</p><br>
 <p align = "left">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white"/>
 <img src="https://img.shields.io/badge/R-75AADB?style=flat-square&logo=R&logoColor=white"/>
-</p>
+</p><br>
+<p>
+<h4>Cooperation</h2>
+</p><br>
+<p align = "left">
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=white"/>    
+</p><br>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yyc9337&layout=compact&theme=blue-green&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
